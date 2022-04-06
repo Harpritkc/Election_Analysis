@@ -50,8 +50,8 @@ The analysis of the election shows that:
 ![result](https://user-images.githubusercontent.com/99519095/161885889-3bfc5b32-7159-4583-bd14-e81c878f46a2.png)
 
 ## Election-Audit Summary
-    Expanding the Election Audit to include voter turnout by county with candidates results has been a great way to take advantage of the convenience a script provides. The added insight can be a guide for future election performance, so that you may properly allocate resources where turnout is low or demographics are hard to reach.
-
+- Expanding the Election Audit to include voter turnout by county with candidates results has been a great way to take advantage of the convenience a script provides. 
+- The added insight can be a guide for future election performance, so that you may properly allocate resources where turnout is low or demographics are hard to reach.
 - A little time invested into customizing the script can provide on-demand analysis for years to come.
 
 - Modifying the script to produce turnout results by county is just one of many ways that minor adjustments to the code can reveal critical data. For example, we could also dive deeper and determine what percentage of each county voted for each candidate by adding an if-statement to the code. These type of Decision Statements are how the code runs calculations and all we've done is provide it with a data file.
